@@ -1,0 +1,9 @@
+{
+	"name": "adlsnycpayroll-konstantin-h",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "df99a27d-5bf7-4f9c-9952-2610df42cc1d",
+		"tenantId": "f958e84a-92b8-439f-a62d-4f45996b6d07"
+	}
+}
